@@ -38,9 +38,6 @@ Navbar/
 This project is licensed under the [Apache License 2.0](LICENSE).  
 You are free to use, modify, and distribute this project, provided proper attribution is given. See the `LICENSE` file for more details.  
 
-## 🌟 Contributing  
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page]
 
 ## 🙌 Acknowledgments  
 Special thanks to the Bootstrap team for their awesome framework!  
